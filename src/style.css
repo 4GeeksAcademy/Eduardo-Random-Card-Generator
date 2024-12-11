@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.pinta {
+  font-size: 70px;
+}
+.card-text {
+  font-size: 120px;
+}
